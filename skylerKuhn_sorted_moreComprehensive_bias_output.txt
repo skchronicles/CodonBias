@@ -1,0 +1,150 @@
+#################################################################################
+Simulated fraction for TGA (*): 0.3 		Actual Fraction: 0.21	Diff: 0.09
+Simulated fraction for TAG (*): 0.3 		Actual Fraction: 0.28	Diff: 0.02
+Simulated fraction for TAA (*): 0.4 		Actual Fraction: 0.51	Diff: -0.11
+Simulated freq. for TGA (*): 18.7 per 1000 		Actual Frequency: 0.7	Diff: 18.0
+Simulated freq. for TAG (*): 18.7 per 1000 		Actual Frequency: 0.9	Diff: 17.8
+Simulated freq. for TAA (*): 25.1 per 1000 		Actual Frequency: 1.6	Diff: 23.5
+#
+Simulated fraction for GCG (A): 0.21 		Actual Fraction: 0.14	Diff: 0.07
+Simulated fraction for GCC (A): 0.21 		Actual Fraction: 0.22	Diff: -0.01
+Simulated fraction for GCA (A): 0.29 		Actual Fraction: 0.28	Diff: 0.01
+Simulated fraction for GCT (A): 0.29 		Actual Fraction: 0.36	Diff: -0.07
+Simulated freq. for GCA (A): 12.7 per 1000 		Actual Frequency: 22.6	Diff: -9.9
+Simulated freq. for GCT (A): 12.7 per 1000 		Actual Frequency: 28.7	Diff: -16.0
+Simulated freq. for GCG (A): 9.2 per 1000 		Actual Frequency: 11.1	Diff: -1.9
+Simulated freq. for GCC (A): 9.2 per 1000 		Actual Frequency: 17.3	Diff: -8.1
+#
+Simulated fraction for TGC (C): 0.42 		Actual Fraction: 0.34	Diff: 0.08
+Simulated fraction for TGT (C): 0.58 		Actual Fraction: 0.66	Diff: -0.08
+Simulated freq. for TGC (C): 12.7 per 1000 		Actual Frequency: 3.2	Diff: 9.5
+Simulated freq. for TGT (C): 17.5 per 1000 		Actual Frequency: 6.3	Diff: 11.2
+#
+Simulated fraction for GAC (D): 0.42 		Actual Fraction: 0.28	Diff: 0.14
+Simulated fraction for GAT (D): 0.58 		Actual Fraction: 0.72	Diff: -0.14
+Simulated freq. for GAC (D): 12.6 per 1000 		Actual Frequency: 13.3	Diff: -0.7
+Simulated freq. for GAT (D): 17.4 per 1000 		Actual Frequency: 34.6	Diff: -17.2
+#
+Simulated fraction for GAG (E): 0.42 		Actual Fraction: 0.24	Diff: 0.18
+Simulated fraction for GAA (E): 0.58 		Actual Fraction: 0.76	Diff: -0.18
+Simulated freq. for GAG (E): 12.8 per 1000 		Actual Frequency: 14.9	Diff: -2.1
+Simulated freq. for GAA (E): 17.6 per 1000 		Actual Frequency: 46.1	Diff: -28.5
+#
+Simulated fraction for TTC (F): 0.42 		Actual Fraction: 0.26	Diff: 0.16
+Simulated fraction for TTT (F): 0.58 		Actual Fraction: 0.74	Diff: -0.16
+Simulated freq. for TTC (F): 17.6 per 1000 		Actual Frequency: 10.2	Diff: 7.4
+Simulated freq. for TTT (F): 24.2 per 1000 		Actual Frequency: 29.1	Diff: -4.9
+#
+Simulated fraction for GGG (G): 0.21 		Actual Fraction: 0.15	Diff: 0.06
+Simulated fraction for GGC (G): 0.21 		Actual Fraction: 0.19	Diff: 0.02
+Simulated fraction for GGA (G): 0.29 		Actual Fraction: 0.23	Diff: 0.06
+Simulated fraction for GGT (G): 0.29 		Actual Fraction: 0.43	Diff: -0.14
+Simulated freq. for GGA (G): 12.8 per 1000 		Actual Frequency: 15.4	Diff: -2.6
+Simulated freq. for GGT (G): 12.8 per 1000 		Actual Frequency: 28.1	Diff: -15.3
+Simulated freq. for GGG (G): 9.1 per 1000 		Actual Frequency: 10.0	Diff: -0.9
+Simulated freq. for GGC (G): 9.1 per 1000 		Actual Frequency: 12.5	Diff: -3.4
+#
+Simulated fraction for CAC (H): 0.42 		Actual Fraction: 0.38	Diff: 0.04
+Simulated fraction for CAT (H): 0.58 		Actual Fraction: 0.62	Diff: -0.04
+Simulated freq. for CAC (H): 12.8 per 1000 		Actual Frequency: 7.0	Diff: 5.8
+Simulated freq. for CAT (H): 17.5 per 1000 		Actual Frequency: 11.3	Diff: 6.2
+#
+Simulated fraction for ATC (I): 0.27 		Actual Fraction: 0.25	Diff: 0.02
+Simulated fraction for ATA (I): 0.37 		Actual Fraction: 0.17	Diff: 0.2
+Simulated fraction for ATT (I): 0.37 		Actual Fraction: 0.57	Diff: -0.2
+Simulated freq. for ATC (I): 17.6 per 1000 		Actual Frequency: 17.5	Diff: 0.1
+Simulated freq. for ATA (I): 24.3 per 1000 		Actual Frequency: 12.0	Diff: 12.3
+Simulated freq. for ATT (I): 24.3 per 1000 		Actual Frequency: 39.8	Diff: -15.5
+#
+Simulated fraction for AAG (K): 0.42 		Actual Fraction: 0.27	Diff: 0.15
+Simulated fraction for AAA (K): 0.58 		Actual Fraction: 0.73	Diff: -0.15
+Simulated freq. for AAG (K): 17.6 per 1000 		Actual Frequency: 12.9	Diff: 4.7
+Simulated freq. for AAA (K): 24.2 per 1000 		Actual Frequency: 35.0	Diff: -10.8
+#
+Simulated fraction for CTC (L): 0.12 		Actual Fraction: 0.10	Diff: 0.02
+Simulated fraction for CTG (L): 0.12 		Actual Fraction: 0.12	Diff: 0.0
+Simulated fraction for CTT (L): 0.17 		Actual Fraction: 0.09	Diff: 0.08
+Simulated fraction for CTA (L): 0.17 		Actual Fraction: 0.13	Diff: 0.04
+Simulated fraction for TTG (L): 0.17 		Actual Fraction: 0.20	Diff: -0.03
+Simulated fraction for TTA (L): 0.24 		Actual Fraction: 0.36	Diff: -0.12
+Simulated freq. for CTC (L): 12.6 per 1000 		Actual Frequency: 10.6	Diff: 2.0
+Simulated freq. for CTG (L): 12.6 per 1000 		Actual Frequency: 13.0	Diff: -0.4
+Simulated freq. for CTT (L): 17.4 per 1000 		Actual Frequency: 9.8	Diff: 7.6
+Simulated freq. for TTG (L): 17.5 per 1000 		Actual Frequency: 22.0	Diff: -4.5
+Simulated freq. for CTA (L): 17.6 per 1000 		Actual Frequency: 14.6	Diff: 3.0
+Simulated freq. for TTA (L): 24.2 per 1000 		Actual Frequency: 39.4	Diff: -15.2
+#
+Simulated fraction for ATG (M): 1.0 		Actual Fraction: 1.00	Diff: 0.0
+Simulated freq. for ATG (M): 20.6 per 1000 		Actual Frequency: 17.3	Diff: 3.3
+#
+Simulated fraction for AAC (N): 0.42 		Actual Fraction: 0.34	Diff: 0.08
+Simulated fraction for AAT (N): 0.58 		Actual Fraction: 0.66	Diff: -0.08
+Simulated freq. for AAC (N): 17.4 per 1000 		Actual Frequency: 15.7	Diff: 1.7
+Simulated freq. for AAT (N): 24.2 per 1000 		Actual Frequency: 30.4	Diff: -6.2
+#
+Simulated fraction for CCG (P): 0.21 		Actual Fraction: 0.10	Diff: 0.11
+Simulated fraction for CCC (P): 0.21 		Actual Fraction: 0.25	Diff: -0.04
+Simulated fraction for CCT (P): 0.29 		Actual Fraction: 0.31	Diff: -0.02
+Simulated fraction for CCA (P): 0.29 		Actual Fraction: 0.34	Diff: -0.05
+Simulated freq. for CCT (P): 12.7 per 1000 		Actual Frequency: 14.5	Diff: -1.8
+Simulated freq. for CCA (P): 12.8 per 1000 		Actual Frequency: 15.6	Diff: -2.8
+Simulated freq. for CCC (P): 9.3 per 1000 		Actual Frequency: 11.6	Diff: -2.3
+Simulated freq. for CCG (P): 9.3 per 1000 		Actual Frequency: 4.7	Diff: 4.6
+#
+Simulated fraction for CAG (Q): 0.42 		Actual Fraction: 0.28	Diff: 0.14
+Simulated fraction for CAA (Q): 0.58 		Actual Fraction: 0.72	Diff: -0.14
+Simulated freq. for CAG (Q): 12.8 per 1000 		Actual Frequency: 15.6	Diff: -2.8
+Simulated freq. for CAA (Q): 17.6 per 1000 		Actual Frequency: 39.7	Diff: -22.1
+#
+Simulated fraction for CGG (R): 0.12 		Actual Fraction: 0.13	Diff: -0.01
+Simulated fraction for CGC (R): 0.12 		Actual Fraction: 0.24	Diff: -0.12
+Simulated fraction for AGG (R): 0.17 		Actual Fraction: 0.07	Diff: 0.1
+Simulated fraction for CGA (R): 0.17 		Actual Fraction: 0.13	Diff: 0.04
+Simulated fraction for CGT (R): 0.17 		Actual Fraction: 0.25	Diff: -0.08
+Simulated fraction for AGA (R): 0.24 		Actual Fraction: 0.18	Diff: 0.06
+Simulated freq. for CGA (R): 12.5 per 1000 		Actual Frequency: 6.7	Diff: 5.8
+Simulated freq. for AGG (R): 12.7 per 1000 		Actual Frequency: 3.6	Diff: 9.1
+Simulated freq. for CGT (R): 12.8 per 1000 		Actual Frequency: 12.4	Diff: 0.4
+Simulated freq. for AGA (R): 17.7 per 1000 		Actual Frequency: 9.1	Diff: 8.6
+Simulated freq. for CGC (R): 9.1 per 1000 		Actual Frequency: 12.0	Diff: -2.9
+Simulated freq. for CGG (R): 9.1 per 1000 		Actual Frequency: 6.3	Diff: 2.8
+#
+Simulated fraction for TCG (S): 0.14 		Actual Fraction: 0.06	Diff: 0.08
+Simulated fraction for TCC (S): 0.14 		Actual Fraction: 0.12	Diff: 0.02
+Simulated fraction for AGC (S): 0.14 		Actual Fraction: 0.15	Diff: -0.01
+Simulated fraction for TCA (S): 0.19 		Actual Fraction: 0.16	Diff: 0.03
+Simulated fraction for TCT (S): 0.19 		Actual Fraction: 0.24	Diff: -0.05
+Simulated fraction for AGT (S): 0.19 		Actual Fraction: 0.26	Diff: -0.07
+Simulated freq. for TCG (S): 12.6 per 1000 		Actual Frequency: 4.1	Diff: 8.5
+Simulated freq. for AGC (S): 12.7 per 1000 		Actual Frequency: 9.7	Diff: 3.0
+Simulated freq. for TCC (S): 12.8 per 1000 		Actual Frequency: 7.6	Diff: 5.2
+Simulated freq. for TCT (S): 17.5 per 1000 		Actual Frequency: 15.6	Diff: 1.9
+Simulated freq. for AGT (S): 17.6 per 1000 		Actual Frequency: 16.5	Diff: 1.1
+Simulated freq. for TCA (S): 17.7 per 1000 		Actual Frequency: 10.4	Diff: 7.3
+#
+Simulated fraction for ACG (T): 0.21 		Actual Fraction: 0.09	Diff: 0.12
+Simulated fraction for ACC (T): 0.21 		Actual Fraction: 0.23	Diff: -0.02
+Simulated fraction for ACA (T): 0.29 		Actual Fraction: 0.33	Diff: -0.04
+Simulated fraction for ACT (T): 0.29 		Actual Fraction: 0.35	Diff: -0.06
+Simulated freq. for ACG (T): 12.6 per 1000 		Actual Frequency: 5.1	Diff: 7.5
+Simulated freq. for ACC (T): 12.7 per 1000 		Actual Frequency: 13.4	Diff: -0.7
+Simulated freq. for ACA (T): 17.5 per 1000 		Actual Frequency: 19.2	Diff: -1.7
+Simulated freq. for ACT (T): 17.5 per 1000 		Actual Frequency: 20.3	Diff: -2.8
+#
+Simulated fraction for GTC (V): 0.21 		Actual Fraction: 0.18	Diff: 0.03
+Simulated fraction for GTG (V): 0.21 		Actual Fraction: 0.22	Diff: -0.01
+Simulated fraction for GTA (V): 0.29 		Actual Fraction: 0.29	Diff: 0.0
+Simulated fraction for GTT (V): 0.29 		Actual Fraction: 0.31	Diff: -0.02
+Simulated freq. for GTC (V): 12.7 per 1000 		Actual Frequency: 11.7	Diff: 1.0
+Simulated freq. for GTG (V): 12.7 per 1000 		Actual Frequency: 14.8	Diff: -2.1
+Simulated freq. for GTA (V): 17.6 per 1000 		Actual Frequency: 19.2	Diff: -1.6
+Simulated freq. for GTT (V): 17.6 per 1000 		Actual Frequency: 20.8	Diff: -3.2
+#
+Simulated fraction for TGG (W): 1.0 		Actual Fraction: 1.00	Diff: 0.0
+Simulated freq. for TGG (W): 12.8 per 1000 		Actual Frequency: 14.2	Diff: -1.4
+#
+Simulated fraction for TAC (Y): 0.42 		Actual Fraction: 0.36	Diff: 0.06
+Simulated fraction for TAT (Y): 0.58 		Actual Fraction: 0.64	Diff: -0.06
+Simulated freq. for TAC (Y): 17.3 per 1000 		Actual Frequency: 10.9	Diff: 6.4
+Simulated freq. for TAT (Y): 23.9 per 1000 		Actual Frequency: 19.7	Diff: 4.2
+#################################################################################
