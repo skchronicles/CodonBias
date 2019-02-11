@@ -1,7 +1,6 @@
 from __future__ import print_function
 import re
 
-# Skyler Kuhn
 
 """This will parse through the Codon Table Program and will create dictionary """
 CODON_TABlE_RE = re.compile("(\w+)\s+([\w?|\*?]\s+\d.\d+\s+\d+.\d)\s+\d+")   # (UGA) (* 0.21  0.7)  1345

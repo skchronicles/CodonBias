@@ -1,6 +1,4 @@
-# Python-Bioinformatics
-
-Quantifying the Role Position-Dependent Codon Usage Bias
+## Quantifying the Role Position-Dependent Codon Usage Bias  
 
 The following programs investigate simulated and actual PCC7120 DNA condon bias. Several large differences were observed between the codon frequencies of the simulated and actual PCC1720 DNA. Based off of the algorithm that I employed and the given GC content of 42%, we would expect to produce a sequence with the following relative nucleotide fractions: G = 0.21, C = 0.21, A = 0.29, and T = 0.29. That being said, if our sequence is 1000 nucleotides long, it would contain 160 more A and T nucleotides than G and C nucleotides. The largest difference were observed in codons that encode for the stop codons. The next highest difference was observed in the codon GAA (E, Diff: -28.3), which was significantly underrepresented in the simulated DNA. Glutamic acid is an amino acid which has charged side-chains. This amino acid is also very charged and hydrophilic. It can typically be seen facing the outside in an aqueous environment. That be being said, having the correct ratio of this specific codon could play a crucial role in the development of this protein’s overall structure. 
 
